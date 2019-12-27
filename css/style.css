@@ -1,0 +1,153 @@
+body {
+    overflow-x: hidden;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navbar {
+    background-color: rgba(255, 255, 255, 0.75)!important;
+    font-weight: 700;
+}
+
+.nav-link {
+    font-size: 1.15rem!important;
+}
+.nav-link:hover {
+    color: #6564A3!important;
+}
+
+.home-inner {
+	background-image: url("codephoto.jpg");
+}
+
+.caption {
+    color: white;
+    width: 100%;
+    max-width: 100%;
+    position: absolute;
+    top: 33%;
+    z-index: 1;
+}
+
+.caption h1 {
+    font-size: 6rem;
+    font-weight: 700;
+}
+
+@media screen and (max-width: 600px){
+    .caption h1 {
+        font-size: 5rem;
+    }
+}
+
+.caption h5 {
+    font-size: 2rem;
+}
+
+@media screen and (max-width: 600px){
+    .caption h5 {
+        font-size: 1.5rem;
+    }
+}
+
+.title {
+    color: #8685C4;
+    font-weight: 700;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    text-decoration: underline;
+}
+
+.paragraph {
+    font-size: 1.35rem;
+    color: #565656;
+}
+
+.last-paragraph {
+    padding-bottom: 2rem;
+    margin-bottom: 0;
+}
+
+.colored {
+    background-color: #E5DEDE;
+}
+
+.line {
+    text-decoration: underline;
+}
+
+.important {
+    font-weight: 700;
+}
+
+.contactPhoto {
+    max-width: 90%;
+}
+
+
+
+.findMe {
+    padding-top: 2rem;
+    font-weight: 700;
+    color: #565656;
+    font-size: 1.9rem;
+}
+
+@media screen and (max-width: 991px){
+    .findMe {
+        padding-top: 1.75rem;
+        font-size: 1.4rem;
+    }
+}
+
+@media screen and (max-width: 991px){
+    .githubIcon {
+        height: 40px;
+        width: 40px;
+    }
+}
+
+@media screen and (max-width: 991px){
+    .linkedinIcon {
+        height: 40px;
+        width: 47px;
+    }
+}
+
+.contactInfo {
+    list-style: none;
+    color: #565656;
+    font-size: 1.5rem;
+    padding-top: 1.5rem;
+    padding-left: 0;
+} 
+
+@media screen and (max-width: 991px){
+    .contactInfo {
+        font-size: 1rem;
+        padding-top: 1rem;
+    }
+}
+
+.contactInfo a {
+    color: #565656;
+}
+
+.contactInfo a:hover {
+    color: #6564A3;
+}
+
+.contactInfo li {
+    padding-bottom: 1rem;
+}
+
+.endLine {
+    height: 0.2rem;
+    background-color: #8685C4;
+    margin-top: 0;
+    margin-bottom: 2.5rem;
+}
+
+.thankyou {
+    margin-top: 5rem;
+    margin-bottom: 0.1rem;
+}
