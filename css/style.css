@@ -19,6 +19,13 @@ body {
 	background-image: url("codephoto.jpg");
 }
 
+@media screen and (max-width: 80px){
+    .mainLogo {
+        width: 150;
+        height: 26;
+    }
+}
+
 .caption {
     color: white;
     width: 100%;
