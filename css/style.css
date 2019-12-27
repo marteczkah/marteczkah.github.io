@@ -19,7 +19,7 @@ body {
 	background-image: url("codephoto.jpg");
 }
 
-@media screen and (max-width: 80px){
+@media screen and (max-width: 200px){
     .mainLogo {
         width: 150;
         height: 26;
