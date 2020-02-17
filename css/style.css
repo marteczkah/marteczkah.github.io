@@ -159,3 +159,40 @@ body {
     margin-top: 5rem;
     margin-bottom: 0.1rem;
 }
+
+.photos {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+@media screen and (max-width: 1000px){
+    .photos {
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+.project-photo {
+    max-width: 48%;
+    height: auto;
+    margin-bottom: 2.5rem;
+}
+
+@media screen and (max-width: 1000px){
+    .project-photo {
+        max-width: 95%;
+        height: auto;
+    }
+}
+
+.resume-link {
+    color:  #565656;
+    font-weight: 700;
+}
+
+.resume-link:hover{
+    color: #8685C4;
+}
+
