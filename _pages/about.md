@@ -28,5 +28,4 @@ Hello there! I'm a PhD student at the Technical University of Munich and Helmhol
 
 Previously, I completed my MSc in Biomedical Computing at TUM. I worked on my master's thesis on myocardial scar contrast enhancement using diffusion models at the Harvard Medical School and Beth Isreal Deaconess Medical Center under the supervisor of Prof. Reza Nezafat.
 
-Reach out if you want to chat! 
-
+Reach out if you want to chat!
