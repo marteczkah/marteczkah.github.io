@@ -211,6 +211,7 @@ exclude:
   - _pages/teaching.md
   - _pages/repositories.md 
   - _pages/books.md 
+  - _pages/dropdown.md 
   - _posts/
   - _projects/?_project.md
   - assets/jupyter/blog.ipynb

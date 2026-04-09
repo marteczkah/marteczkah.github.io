@@ -24,8 +24,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello there! I'm a PhD student at the Technical University of Munich and Helmholtz Munich, supervised by Professor Julia Schnabel. My doctor research is focused on multimodal foundation models for cardiology. In particular, I'm interested in vision-tabular learning and their applications to cardiology, such as cardiovascular disease risk assessment. 
+Hello there! I'm a PhD student at the Technical University of Munich and Helmholtz Munich, supervised by Professor [Julia Schnabel](https://www.professoren.tum.de/en/schnabel-julia). My research is focused on multimodal foundation models for cardiology. In particular, I'm interested in vision-tabular learning and its applications to cardiology, such as cardiovascular disease risk assessment. 
 
-Previously, I completed my MSc in Biomedical Computing at TUM. I worked on my master's thesis on myocardial scar contrast enhancement using diffusion models at the Harvard Medical School and Beth Isreal Deaconess Medical Center under the supervisor of Prof. Reza Nezafat.
+Previously, I completed my MSc in Biomedical Computing at TUM. I worked on my master's thesis on myocardial scar contrast enhancement using diffusion models at the Harvard Medical School and Beth Isreal Deaconess Medical Center under the supervisor of Professor [Reza Nezafat](https://connects.catalyst.harvard.edu/Profiles/display/Person/16607).
 
 Reach out if you want to chat!
