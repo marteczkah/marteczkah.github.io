@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper (RoVTL) accepted at ICML2026! 
+1 paper ([RoVTL](https://arxiv.org/pdf/2512.19602)) accepted at ICML2026! 
