@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-08'
+  last_updated: '2026-07-22'
 papers:
   g7YvYwYAAAAJ:2osOgNQ5qMEC:
     citations: 2
@@ -14,7 +14,7 @@ papers:
     title: 'No Data? No Problem: Robust Vision-Tabular Learning with Missing Values'
     year: '2025'
   g7YvYwYAAAAJ:Y0pCki6q_DkC:
-    citations: 0
+    citations: 1
     title: Hierarchical Adaptive networks with Task vectors for Test-Time Adaptation
     year: '2026'
   g7YvYwYAAAAJ:qjMakFHDy7sC:
@@ -22,7 +22,7 @@ papers:
     title: Latent Drifting in Diffusion Models for Counterfactual Medical Image Synthesis
     year: '2024'
   g7YvYwYAAAAJ:u-x6o8ySG0sC:
-    citations: 12
+    citations: 13
     title: BERT for complex systematic review screening to support the future of medical research
     year: '2023'
   g7YvYwYAAAAJ:zYLM7Y9cAGgC:
