@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-22'
+  last_updated: '2026-08-03'
 papers:
   g7YvYwYAAAAJ:2osOgNQ5qMEC:
     citations: 2
@@ -7,7 +7,7 @@ papers:
     year: '2024'
   g7YvYwYAAAAJ:IjCSPb-OGe4C:
     citations: 2
-    title: Semantic Alignment of Unimodal Medical Text and Vision Representations
+    title: Semantic alignment of unimodal medical text and vision representations
     year: '2025'
   g7YvYwYAAAAJ:Tyk-4Ss8FVUC:
     citations: 1
@@ -15,10 +15,10 @@ papers:
     year: '2025'
   g7YvYwYAAAAJ:Y0pCki6q_DkC:
     citations: 1
-    title: Hierarchical Adaptive networks with Task vectors for Test-Time Adaptation
+    title: Hierarchical adaptive networks with task vectors for test-time adaptation
     year: '2026'
   g7YvYwYAAAAJ:qjMakFHDy7sC:
-    citations: 25
+    citations: 27
     title: Latent Drifting in Diffusion Models for Counterfactual Medical Image Synthesis
     year: '2024'
   g7YvYwYAAAAJ:u-x6o8ySG0sC:
@@ -26,6 +26,6 @@ papers:
     title: BERT for complex systematic review screening to support the future of medical research
     year: '2023'
   g7YvYwYAAAAJ:zYLM7Y9cAGgC:
-    citations: 3
+    citations: 2
     title: 'Tables Guide Vision: Learning to See the Heart through Tabular Data'
     year: '2025'
