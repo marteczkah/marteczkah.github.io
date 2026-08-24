@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-08-03'
+  last_updated: '2026-08-24'
 papers:
   g7YvYwYAAAAJ:2osOgNQ5qMEC:
-    citations: 2
+    citations: 3
     title: Myocardial scar enhancement in LGE cardiac MRI using localized diffusion
     year: '2024'
   g7YvYwYAAAAJ:IjCSPb-OGe4C:
@@ -10,22 +10,30 @@ papers:
     title: Semantic alignment of unimodal medical text and vision representations
     year: '2025'
   g7YvYwYAAAAJ:Tyk-4Ss8FVUC:
-    citations: 1
+    citations: 4
     title: 'No Data? No Problem: Robust Vision-Tabular Learning with Missing Values'
     year: '2025'
+  g7YvYwYAAAAJ:W7OEmFMy1HYC:
+    citations: 0
+    title: Whole-Body MRI Classification via Prompt-Based Clinical Conditioning
+    year: Unknown Year
   g7YvYwYAAAAJ:Y0pCki6q_DkC:
     citations: 1
     title: Hierarchical adaptive networks with task vectors for test-time adaptation
+    year: '2026'
+  g7YvYwYAAAAJ:YsMSGLbcyi4C:
+    citations: 0
+    title: 'Cine Cardiac MRI Captures Cardiovascular Disease Risk Beyond Established Clinical Risk Factors: Evidence from the UK Biobank'
     year: '2026'
   g7YvYwYAAAAJ:qjMakFHDy7sC:
     citations: 27
     title: Latent Drifting in Diffusion Models for Counterfactual Medical Image Synthesis
     year: '2024'
   g7YvYwYAAAAJ:u-x6o8ySG0sC:
-    citations: 13
+    citations: 14
     title: BERT for complex systematic review screening to support the future of medical research
     year: '2023'
   g7YvYwYAAAAJ:zYLM7Y9cAGgC:
-    citations: 2
+    citations: 3
     title: 'Tables Guide Vision: Learning to See the Heart through Tabular Data'
     year: '2025'
