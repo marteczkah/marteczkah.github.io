@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-24'
+  last_updated: '2026-08-31'
 papers:
   g7YvYwYAAAAJ:2osOgNQ5qMEC:
     citations: 3
@@ -26,7 +26,7 @@ papers:
     title: 'Cine Cardiac MRI Captures Cardiovascular Disease Risk Beyond Established Clinical Risk Factors: Evidence from the UK Biobank'
     year: '2026'
   g7YvYwYAAAAJ:qjMakFHDy7sC:
-    citations: 27
+    citations: 28
     title: Latent Drifting in Diffusion Models for Counterfactual Medical Image Synthesis
     year: '2024'
   g7YvYwYAAAAJ:u-x6o8ySG0sC:
